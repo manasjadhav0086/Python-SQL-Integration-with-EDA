@@ -75,7 +75,12 @@ This project demonstrates the integration of Python and SQL for generating and a
 
 4. **Visualize Data**
    - Generate the required plots using Python's visualization libraries.
-
+---
+Sample Visualizations
+Bar Plot: (https://github.com/user-attachments/assets/278390be-ba29-4b75-bdaa-cfd1a003ef42)
+Line Plot: (https://github.com/user-attachments/assets/e8760166-ade8-4939-8f59-a3623c111371)
+Pie Chart: (https://github.com/user-attachments/assets/e0d752c6-8ad3-4ea4-98b7-ad5d0b95e53f)
+Scatter Plot: (https://github.com/user-attachments/assets/3c36412b-2be1-40cf-8ccb-96b49f5d820e)
 ---
 
 ## **Key Insights**
