@@ -18,8 +18,9 @@ data = {
 }
 df = pd.DataFrame(data)
 
-# Data connection to sql
-db_connection_string = "mysql+pymysql://root:Manas0086@localhost/Cust_product"
+# Data connection to SQL
+# feel your SQL info for smooth integration.
+db_connection_string = "mysql+pymysql://'Your Username':'Your Password'@'Your Host'/'Database name'"
 engine = create_engine(db_connection_string)
 
 # Insert Data into SQL
